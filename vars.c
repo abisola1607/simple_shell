@@ -140,9 +140,9 @@ int replace_vars(info_t *info)
 }
 
 /**
- * replace_string - replaces string
+ * replace_string - replaces the old  string
  * @old: address of old string
- * @new: new string
+ * @new: new string that replaceed the old string
  *
  * Return: 1 if replaced, 0 otherwise
  */
